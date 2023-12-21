@@ -1,4 +1,5 @@
-# lib/app.py
-print("Hello world!", end=" ")
-print("Hello sun!", end="!! ")
-print("Hello sky!", end="!!!\n")
+def main():
+    print("Hello World! Pass this test, please.")
+
+if __name__ == "__main__":
+    main()
