@@ -1,5 +1,3 @@
-def main():
-    print("Hello World! Pass this test, please.")
+# app.py
 
-if __name__ == "__main__":
-    main()
+print("Hello World! Pass this test, please.")
